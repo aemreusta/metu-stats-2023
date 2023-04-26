@@ -17,7 +17,7 @@ This repository contains the following files:
 
 This project is a collaboration between the following individuals:
 
-[Ahmet Emre Usta](https://www.linkedin.com/in/a-emreusta/)
-[Engincan Göçer](https://www.linkedin.com/in/engincangocer473473/)
+- [Ahmet Emre Usta](https://www.linkedin.com/in/a-emreusta/)
+- [Engincan Göçer](https://www.linkedin.com/in/engincangocer473473/)
 
 We hope you find this project informative and useful. If you have any questions or feedback, please feel free to contact us.
